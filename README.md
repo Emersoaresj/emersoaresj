@@ -28,6 +28,14 @@ Atualmente Software Engineer no Grupo Casas Bahia, apaixonado por desenvolviment
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
+## Skills
+
+- Resolução de problemas
+- Trabalho em equipe  
+- Comunicação eficaz  
+- Proatividade
+- Resiliência
+- Flexibilidade
 ---
 
 ## Minhas estatísticas no GitHub
